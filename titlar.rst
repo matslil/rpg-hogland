@@ -1,10 +1,17 @@
 ============================
-Högrike
+Högrike - Titlar
 ============================
 
-----------------------------
-Titlar
-----------------------------
+--------------
+Mats Liljegren
+--------------
+
+Copyright (c) 2021, Mats Liljegren.
+
+Detta dokument är licensierad under Creative Commons Attribution Share Alike 4.0 International.
+
+Licenstexten återfinns i filen LICENSE samt under följande URI: https://choosealicense.com/licenses/cc-by-sa-4.0.
+SPDX-License-Identifier: CC-BY-4.0
 
 Terminologi
 ===========
@@ -27,7 +34,7 @@ Livegen
 Spinnsidan
   Kvinnliga delen av släkten.
 
-Svärddisdan
+Svärdssidan
   Manliga delen av släkten.
 
 Riksråd
@@ -55,7 +62,7 @@ Monark
   | Titel: Kung/Drottning
   | Tilltal brev: Ers kungliga majestät
   | Tilltal muntligt: Ers majestät
-  | Ny monark väljs av riksrådet då sittande monarken dör. Endast herreklassen kan bli monark, men inte om man är med i riksrådet.
+  | Ny monark väljs av Riksrådet då sittande monarken dör. Endast herreklassen kan bli monark, men inte om man är med i Riksrådet. Dessutom krävs att Riksrådet är enigt för att ett val skall göras, händer inte det, väljs den äldsta medlemmen av den regerande ätten.
 
 Prins
   | Titel: Prins
@@ -80,14 +87,15 @@ Greve
   | Titel: Greve
   | Tilltal brev: Högvälborne
   | Tilltal muntligt: Greve, Grevinna
-  | Regent för en av de fyra länen som omger Höglän: Norlän, Sydlän, Väslän, Öslän.
-  | När en greve dör, kommer det barn som övertar länet att ärva titeln, förutsatt att barnet har kvar sina adelsprivilegier.
+  | Regent för en av de fyra länder som omger Högland: Nordland, Sydland, Västland, Östland.
+  | För att försörja sig och sin familj så äger greven markområden med bönder vilka betalar skatt till greven. Övriga marker i landet ägs av en friherre eller fribonde. En fribonde betalar skatt till kungen.
+  | När en greve dör, kommer det barn som övertar landet att ärva titeln, förutsatt att barnet har kvar sina adelsprivilegier.
 
 Friherre
   | Titel: Friherre
   | Tilltal brev: Högvälborne
   | Tilltal muntligt: Baron, friherrina
-  | Adel som äger mark.
+  | Adel som äger mark. Bönder som odlar på denna mark betalar skatt till friherren.
   | När en friherre dör, kommer det barn som övertar marken att ärva titeln, förutsatt att barnet har kvar sina adelsprivilegier.
 
 Riddarklassen (Obetitlad högadel)
@@ -160,12 +168,12 @@ Präst
 Bonde
 ~~~~~
 
-Bönder tillhör ofrälset, och betalar skatt till friherren och greven.
+Bönder tillhör ofrälset, och betalar skatt till friherren eller greven. En fribonde äger sin egen mark, och betalar då istället skatt direkt till monarken.
 
-  | Tilltal brev: Förståndige
-  | Tilltal muntligt: Herr
-  | Hör till en gård med tillhörande odlingsmarker.
-  | Gården ärvs typiskt av äldste sonen.
+| Tilltal brev: Förståndige
+| Tilltal muntligt: Herr
+| Hör till en gård med tillhörande odlingsmarker.
+| Gården ärvs typiskt av äldste sonen.
 
 Livegen
 ~~~~~~~
