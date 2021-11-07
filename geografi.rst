@@ -24,7 +24,7 @@ Nordland är känd för sitt kalla klimat och bergiga landskap. Vintern i Nordla
 
 Sydland har vidsträckta öknar och savanner. Somrarna är mycket heta och torra medan vintrarna är betydligt behagligare. Det mesta av regnet faller under vinterhalvåret.
 
-Östland har vidsträckta skogar där vintrarna är tämligen milda och somrarna behagliga. Det anses vara det land med det bästa klimatet för människor.
+Östland har vidsträckta skogar där vintrarna är tämligen milda och somrarna behagliga. Det anses vara det land med det bästa klimatet för människor. Öster om Östland ligger Stora Havet.
 
 Västland är känd för sina djupa och mörka djungler och den artrikedom det för med sig. Här finns otaliga växtarter och djurarter som ingen sett än. Det är mycket varmt på somrarna med hög luftfuktighet, vilket många tycker är olidigt. På vintern är det svalare men det kommer sporadiska monsunregn istället.
 
@@ -93,6 +93,16 @@ Städer
 ~~~~~~
 
 Ekenby
-  Stadens huvudstad, ligger i östra delen av landet.
+  Landets huvudstad, ligger i östra delen av landet.
 
+Östland
+-------
 
+Östland lever huvudsakligen på fiske, men även en del på jakt. Klimatet är behagligt med milda somrar och milda och huvudsakligen snöfria vintrar. Landet består av skogar och åkermarker. Det finns inga stora städer i Östland, men desto fler byar. Regenten i Östland, Greve **Henrique**, bor i den största hamnbyn Stensvik.
+
+Byar
+~~~~
+
+Stensvik
+  Landets huvudstad, eller kanske snarare huvudby. Den ligger i östra delen av landet, och har en hamn mot Stora Havet.
+  

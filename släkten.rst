@@ -39,7 +39,7 @@ Cronhielm af Ekborg
 
   Hertig **Harald** (M 38), gift med Maria (K 36), barnen Lena (K 18), Björn (M 20), Erik (M 23): Yngre bror till Karl, är också med i riksrådet, och arbetar med diplomatiska relationer.
 
-  Baron **Erik** (M 23), gift med Moa (K 17), barnen Rickard (M 2): Son till Harald, är friherre över Ekborg i Högland.
+  Baron **Erik** (M 33), gift med Moa (K 27), barnen Rickard (M 12): Son till Harald, är friherre över Ekborg i Högland.
 
 Släkten Nordland
 ================
