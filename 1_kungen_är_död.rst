@@ -20,13 +20,13 @@ Kung **Didrik** Horn af Björneborgs dagar är räknande. Han, liksom hela hans 
 
 Som alltid när saker förändras så finns det vinnare och förlorare. Det är allmänt känt att Baron **Indar** Sparre af Söfdeborg är intresserad av tronen och är en av de få som öppet kritiserat ätten Horn af Björneborgs styre. Att de själva en gång som ätt suttit på tronen och att det då tog ända med förskräckelse bara efter ett par år är ett faktum som andra nogsamt ser till att Indar inte kan hymla med. Och nu har Indar blivit misstänkt tyst. Vad har han för planer?
 
-Baron **Erik** gör inte mycket väsen av sig, men två andra i ätten sitter i Riksrådet. Innebär det att han har goda chanser att bli vald?
+Baron **Erik** Cronhielm af Ekborg gör inte mycket väsen av sig, men två andra i ätten sitter i Riksrådet. Innebär det att han har goda chanser att bli vald?
 
 Eller blir det Greve **Jarund** Drakbane? Han är visserligen impopulär på grund av sin brutala ärlighet och frispråkighet, men i kris söker sig folk till starka män, och någon starkare ledare än Jarund finns det inte att välja på här.
 
 Baron **Tariq** af Grå har spenderat mycket tid på hovet, och är väl berest, men ingen vet något om honom. Det ryktas dock om att han är duktig på magi och trolldrycker. Tänker han använda dessa kunskaper för att lura till sig tronen?
 
-Men det finns åtskilligt fler där mycket litet är känt om deras ambitioner. Dessutom florerar det ensvisa rykten om att **Didrik** ska ha en gömd son någonstans i landet. Är det önsketänkande eller finns det ett korn av sanning i det?
+Men det finns åtskilligt fler där mycket litet är känt om deras ambitioner. Dessutom florerar det ensvisa rykten om att kung **Didrik** ska ha en gömd son någonstans i landet. Är det önsketänkande eller finns det ett korn av sanning i det?
 
 Huvudkaraktärer
 ===============
@@ -59,6 +59,8 @@ Herr **Robert** Stenvalla af Haldiksberg
 Händelseförlopp
 ===============
 
+Som förväntat dör kungen, och föreberedelserna börjar för att välja en ny kung. Budbärare skickas ut till alla regenter, och att de har en månad på sig att komma för att ställa upp inför valet som kung.
+
 **Indar** och **Tariq** är redan på plats när äventyret tar sin början, eftersom de ändå spenderar mycket tid på hovet.
 
 #. **Jarund** och **Husbjörn** anländer med stort följe av både personal och en smärre armé. De tränger sig på utan att fråga om lov och tar i princip alla lediga rum i besittning. Den enda som Jarund lyssnar på är Riddar **Fredri**, som han stiftade bekantskap med under ett slag mot vättar. Han gillade Fredriks insats där.
@@ -71,7 +73,7 @@ Händelseförlopp
 
    Det är i själva verket **Indar** som försöker sätta dit sin gamla rival **Tariq** och samtidigt sätta press på **Erik** att ge upp tanken på tronen.
 
-#. På kvällen hålls en anspråkslös middag för alla, där en historieberättare från **Jarunds** sällskap berättar om drakviskare som en gång levde i Nordland och som kunde betvinga och förslava drakar men sin blotta vilja. De regerade över Nordland med hjälp av sina drakar, och stod för landets säkerhet. Det var en tid av välstånd för Nordland. Men drakviskarna dog sakteligen ut som släkte, ingen vet riktigt varför. Även drakarna blev färre, och det har spekulerats kring om det finns ett samband där.
+#. På kvällen hålls en anspråkslös middag för alla, där en historieberättare från **Jarunds** sällskap berättar om drakviskare som en gång levde i Nordland och som kunde betvinga och förslava drakar med sin blotta vilja. De regerade över Nordland med hjälp av sina drakar, och stod för landets säkerhet. Det var en tid av välstånd för Nordland. Men drakviskarna dog sakteligen ut som släkte, ingen vet riktigt varför. Även drakarna blev färre, och det har spekulerats kring om det finns ett samband där.
 
    Andra ätter kommer med sarkastiska kommentarer kring historien, typ "Nordland försöker verkligen leva på gamla meriter, men det hjälper dem inte mycket!", "Slår vad om att det var Nordlands egna invånare som slaktade drakviskarna!", "Det där är bara gamla myter, tror verkligen folk på den där smörjan fortfarande?".
 
@@ -79,9 +81,9 @@ Händelseförlopp
 
    Efteråt berättar Karl att demonen är en demonfurste, och demonen var ganska försvagad när de kom. Det tyder på att Tariq har stor talang för magi, kanske nästan lika stor som Robert själv.
 
-#. En stor bankett ska hållas till kvällen. Festen börjar storslaget med lättare förrätt, dans, gyckel och middag. Efter middag börjar det hejdlösa supandet och en del småbråk uppstår. Alla är misstänksamma mot alla, och alkoholen gör inte saken bättre. Framförallt Riddare **Fredrik** får rycka in när Greve **Jarund** Drakbane drar sitt svärd och hotar hugga ner allt alla som inte kommer från Nordland, uppenbart kraftigt berusad. Fredrik har dock en chans att tala honom tillrätta.
+#. En stor bankett ska hållas till kvällen. Festen börjar storslaget med lättare förrätt, dans, gyckel och middag. Efter middag börjar det hejdlösa supandet och en del småbråk uppstår. Alla är misstänksamma mot alla, och alkoholen gör inte saken bättre. Framförallt Riddare **Fredrik** får rycka in när Greve **Jarund** Drakbane drar sitt svärd och hotar hugga ner alla som inte kommer från Nordland, uppenbart kraftigt berusad. Fredrik har dock en chans att tala honom tillrätta.
 
-#. På dagen efter banketten ska omröstningen hållas. Det är uppenbart att alla haft lite för mycket att dricka dagen innan, och tillställningen blir osedvanligt tyst och lugn. Dock lyckas man inte få till något majoritetsval, alla verkar rösta på sig själva. Inte helt oväntat resultat, och frustrationen börjar pyra.
+#. På dagen efter banketten ska omröstningen hållas. Det är uppenbart att alla haft lite för mycket att dricka dagen innan, och tillställningen blir osedvanligt tyst och lugn. Dock lyckas man inte få till något majoritetsval, alla verkar rösta på sin egen ätt. Inte helt oväntat resultat, och frustrationen börjar pyra.
 
 #. **Karl** rapporterar till **Robert** att armén som invaderade Östland är på väg mot Högland, och Östlands soldater verkar ingå i den armén. Det börjar bli tämligen akut att hitta en kung, någon som kan samordna ett försvar.
 
