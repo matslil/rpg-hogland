@@ -63,15 +63,15 @@ Som förväntat dör kungen, och föreberedelserna börjar för att välja en ny
 
 **Indar** och **Tariq** är redan på plats när äventyret tar sin början, eftersom de ändå spenderar mycket tid på hovet.
 
+#. Vidar (en av rollpersonerna) får besök av en gammal bekant, Idun. Hon vill tacka Vidar för att han lät henne vinna en tävling, som gjorde det möjligt för hennes far att betala tillbaka en skuld till indrivare. Det blir lite stelt ett tag, men plötsligt kastar hon som sig gråtande i famnen på Vidar och snyftar "Du räddade livet på både mig och min far. Jag kommer att vara i tacksamhetsskuld till dig under hela mitt liv.". Sedan ryggar hon tillbaka, tittar ner, och ber om ursäkt för att hon inte kunde kontrollera sig. Om inte Vidar gör något så niger hon och går, medan hon torkar sina tårar.
+
 #. **Jarund** och **Husbjörn** anländer med stort följe av både personal och en smärre armé. De tränger sig på utan att fråga om lov och tar i princip alla lediga rum i besittning. Den enda som Jarund lyssnar på är Riddar **Fredri**, som han stiftade bekantskap med under ett slag mot vättar. Han gillade Fredriks insats där.
 
 #. **Erik** anländer med sitt följe och undrar irriterat var det är tänkt att de ska husera.
 
 #. **Karl** informerar **Rboert** om att en stor flotta håller på att anfalla Östland. Det som förvånar mest är att Östland verkar helt oförberett, trots att de måste ha sett flottan komma för länge sedan. Karl anser dock att det kan förklara varför Greve **Henrique** inte infunnit sig inför val av kung.
 
-#. Baron **Erik** Cronhielm af Ekborgs son Rickard (12) blir förgiftad. Alla försök att rädda hans liv misslyckas. Om spelarna frågar kökspersonalen får de veta att de fått oväntat besök av Baron **Tariq** som ville inspektera matlagningen, något som aldrig hänt förut. Om hans rum undersöks hittar man en trolldryck vars effekter motsvarar den förgiftning som Rickard råkade ut för. Om en mer omfattande utredning görs, berättar tjänstepersonalen för Greve **Jarund** Drakbane från Nordland att de sett personer ur Baron **Indars** tjänstepersonal smita in i **Tariqs** rum strax före förgiftningen.
-
-   Det är i själva verket **Indar** som försöker sätta dit sin gamla rival **Tariq** och samtidigt sätta press på **Erik** att ge upp tanken på tronen.
+#. Baron **Erik** Cronhielm af Ekborgs son Rickard (12) blir förgiftad. Alla försök att rädda hans liv misslyckas. Plötsligt är det mycket oväsen ute på innergården. Visar sig att Baron **Indar** dragit fram galgen och håller på att marchera en sönderslagen Idun (gammal vän till en av rollpersonerna) för att hängas som skyldig för giftdådet. Inga bevis finns mot henne, utom **Indar** som hävdar att han sett henne göra det. Frågar rollpersonerna runt lite får de veta att personal från **Indars** sällskap har levererat dryck till Rickard, vilket de tyckt varit konstigt. Undersöks **Indars** rum så finns resterna av giftet där.
 
 #. På kvällen hålls en anspråkslös middag för alla, där en historieberättare från **Jarunds** sällskap berättar om drakviskare som en gång levde i Nordland och som kunde betvinga och förslava drakar med sin blotta vilja. De regerade över Nordland med hjälp av sina drakar, och stod för landets säkerhet. Det var en tid av välstånd för Nordland. Men drakviskarna dog sakteligen ut som släkte, ingen vet riktigt varför. Även drakarna blev färre, och det har spekulerats kring om det finns ett samband där.
 

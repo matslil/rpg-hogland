@@ -27,7 +27,7 @@ Horn af Björneborg
   - High-concept: Förena folk med diplomati
   - Trouble: Alla ljuger
 
-  Riddar **Johan** (M 57 vid sin död), gift med Maria (K 45 vid sin död), inga barn. Tränade **Fredrik** Järnsporre af Eriksstad som riddare.
+  Riddar **Johan** (M 57 vid sin död), gift med Maria (K 45 vid sin död), inga barn.
 
 Sparre af Söfdeborg
   Den mest högljudda ätten. De anser sig vara den mest kompetenta monarkätten, och vill gärna bevisa detta. Att de en gång faktiskt varit monarkätt, och det tog ända med förskräckelse efter bara några år, är något de själva gärna talar tyst om men andra gärna påpekar.
