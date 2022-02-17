@@ -24,6 +24,7 @@ Horn af Björneborg
   Ätten är känd för att vara skickliga diplomater. Till och med när andra ätter varit monark för en tid, tenderar Horn af Björneborg att bli återvalda ändå eftersom de andra är så vana vid att de regerar.
 
   Kung **Didrik** (M 59), gift med Ylva (K 39 vid sin död), inga barn: Kung i Högland, den sista mannen i sin ätt. Han är klar i huvudet men kroppen är skröplig. Han har troligen inte lång tid kvar att leva.
+
   - High-concept: Förena folk med diplomati
   - Trouble: Alla ljuger
 
@@ -33,6 +34,7 @@ Sparre af Söfdeborg
   Den mest högljudda ätten. De anser sig vara den mest kompetenta monarkätten, och vill gärna bevisa detta. Att de en gång faktiskt varit monarkätt, och det tog ända med förskräckelse efter bara några år, är något de själva gärna talar tyst om men andra gärna påpekar.
 
   Baron **Indar** (M 42), gift med Viola (K 32), barnen Gustaf (M 12), Nilla (K 14), Fjodor (M17): Äldste medlem i ätten. Bor i Söfdeborg, men spenderar mycket tid i hovet, oklart för alla vad han egentligen gör där. Han tar också långa resor till destinationer ingen känner till, eller vill berätta om. Han är den som varit mest högljudd i kritiken mot Didrik, men på sistone har han varit tyst. Kanske på grund av Didriks hälsotillstånd.
+
   - High-concept: Rättmätige regenten
   - Trouble: Föredrar kortsiktiga lösning före långsiktiga
 
@@ -40,14 +42,17 @@ Cronhielm af Ekborg
   Den enda ätt som helhjärtat och trogfast har stött Horn af Björneborg som monark. Det finns envisa rykten om att det bland ättens medlemmar finns de som fördjupat sig i mörk magi.
 
   Hertig **Karl** (M 39), ogift, inga barn: Är med i riksrådet och är äldste medlemmen i ätten. Han har arbetstiteln "Kunskapssamlare", kring vilket mycket litet är känt.
+
   - High-concept: Kunskap är makt, makt är till för att användas
   - Trouble: Medmänsklighet är en lyx som andra får unna sig
 
   Hertig **Harald** (M 38), gift med Maria (K 36), barnen Lena (K 18), Björn (M 20), Erik (M 23): Yngre bror till Karl, är också med i riksrådet, och arbetar med diplomatiska relationer.
+
   - High-concept: Dirigent i den diplomatiska konserten
   - Trouble: Älskar komplicerade lösningar
 
   Baron **Erik** (M 33), gift med Moa (K 27), barnen Rickard (M 12): Son till Harald, är friherre över Ekborg i Högland.
+
   - High-concept: Snyggt och elegant regerar
   - Trouble: Vackra damer har inte rätt att säga nej
 
@@ -60,11 +65,13 @@ Drakbane
   Ätten Drakbane är kända för att vara öppna med vad de tycker, odiplomatiska och allmänt ohöviska. De är omtyckta i Nordland, men övriga delar av riket ser dem som kaxiga, självgoda och helt utan adlig uppfostran. Själva ser de sig som de enda som vågar säga sanningen utan en massa förskönande omskrivningar och som är de enda som är starka nog att också kunna regera riket utöver Horn af Björneborg. Horn af Björneborg är den enda ätten som Drakbane har någon som helst respekt för.
 
   Greve **Jarund** (M 47), gift med Idun (K 42), barnen Bodil (K 10), Anund (M 12), Kettil (M 15), Loke (M 17), Igulfrid (K 18): Ättens äldste. Greve över Nordland. Han är öppet kritisk mot alla ätter utom just Horn af Björneborg. Han tycker att de andra ätterna bara sitter och äter lyxmiddagar och vältrar sig i lyx istället för att bry sig om rikets bästa. Han tycker också att adelsmän och adelskvinnor överlag är lata och okunniga om hur riket fungerar, utan kan bara hur man skapar roliga intriger på hovet.
+
   - High-concept: Regent med styrka och pondus
   - Trouble: Brutalt ärlig
   - Utseende: Storvuxen och stark, rör sig med självklarhet och pondus. Långhårig med uppstående hästsvans och flätat skägg. Han är oftast klädd i pälskläder med djurklor som knappar och ett halsband med tänder. Hans blick är genomträngande och många tycker att han har ett skrämmande sätt.
 
   Hertig **Aslak** (M 44), gift med Runa (K 45), barnen Saga (K 7), Ragnfrid (K 8), Vimund (M 10), Åsbjörn (M 11), Halvard (M 13): Yngre bror till Jarund, sitter i riksrådet som representant för Nordland. Ser upp till sin äldre bror, men är själv ganska tystlåten. Han är dock betydligt mer diplomatiskt skicklig än sin äldre bror.
+
   - High-concept: Stöttepelaren åt kungen när det blåser
   - Trouble: Oförskämdhet löses med dödlig duell
   - Utseende: Normalstor men rör sig som en panter. Har lång hästsvans bak och bockskägg. Bär skinnkläder med knappar av ädelträ. Han ser alltid lite lurig ut när han pratar med en.

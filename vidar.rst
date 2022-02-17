@@ -102,3 +102,52 @@ och kommer först över mållinjen. Men det märkliga är att Vidar ändå
 känner en ennorm glädje! Särskilt när han får syn på den genomblöte och
 otroligt förbannade Edvin!
 
+Aspekt
+  Vill hjälpa de svaga
+
+Vidars bidrag till Gabriels berättelse
+--------------------------------------
+
+Sleipner rusar fram i galopp. Vidar styr varsamt Sleipner förbi stockar
+och över en häck, sedan låter han Sleipner falla in i en lugn trav. "Du
+behöver nog vatten, tror jag" säger Vidar. "Kullbyn ligger nära, vi tar
+vägen förbi." När Vidar rider in i Kullbyn märker han att det är en hel
+del av männen som samlats på torget. Han vattnar Sleipner och går fram
+till en av männen som Vidar vet är med i bystämman. Männen runt omkring
+verkar upprörda och många av dom är beväpnade med enklare vapen. "Vad är
+det frågan om?" undrar Vidar. Mannen vänder sig om och ser lite besvärad
+ut när han ser vem det är. Han ser ut att fundera på om han ska svara
+eller inte, men säger sedan: "Nu ska vi en gång för alla visa vem som
+rättmätigt äger Dalsåkrarna!"
+
+Trätan om Dalsåker gick långt tillbaka i tiden. Ingen minns riktigt hur
+den började. Kanske som ett missförstånd att grannbyn Slättby hade fått
+lov att bruka Dalsåkrarna. Hur som helst, Kullbyn och Slättby hade under
+lång tid bråkat om om dom här åkrarna. Vidar insåg att han måste försöka
+göra något om inte situationen skulle spåra ur helt.
+
+Vidar sätter sig på sin häst för att komma upp en bit. Han önskar
+verkligen att han haft Gabriel här nu. Gabriel har en helt annan pondus
+än Vidar. Visst, Gabriel kan ibland brusa upp lite väl mycket, men i det
+här läget skulle egentligen inte det vara någon nackdel.
+
+Vidar säger med så myndig röst som möjligt: "Lyssna! Ni kan inte gå till
+Slättbyn med era påkar och försöka skipa er egen rättvisa. Kullbyn måste
+också få sin röst hörd. Den här dispyten måste ni ta upp i tinget och
+låta lagmännen avgöra!" Männen på torget stannar upp och ser lite osäkra
+ut, men så svarar en av männen: "Vi gjorde ju det för två år sen och
+inget har hänt! Vi kan inte vänta längre! Vår by har växt och vi har
+fler munnar att mätta!". Dom övriga männen nickar instämmande. "Mot
+Slättby och låt dom få veta vem som äger Dalsåkrarna!". Männen börjar
+samla ihop sig och ser ut att förbereda sig för avmarsh. Vidar inser att
+han måste kalla på hjälp och sätter av i sporrsträck mot Björneslott.
+
+Halvvägs mot Björneslott möter Vidar Gabriel och tempelmästaren Lucas.
+Snabbt förklarar han läget och tempelmästaren säger med barsk röst att
+dom genast ska bege sig till Slättby.
+
+Gabriel, Vidar och Lucas rider in till Slättby, och på torget möts de av en...
+
+Aspekt
+  ??
+
