@@ -83,7 +83,7 @@ Händelseförlopp
   
 #. Dag 5
 
-#. Plötsligt är det mycket oväsen ute på innergården. Visar sig att Baron **Indar** dragit fram galgen och håller på att marchera en sönderslagen Idun (gammal vän till en av rollpersonerna) för att hängas som skyldig för giftdådet. Inga bevis finns mot henne, utom **Indar** som hävdar att han sett henne göra det. Frågar rollpersonerna runt lite får de veta att personal från **Indars** sällskap har levererat dryck till **Rickard**, vilket de tyckt varit konstigt. Undersöks **Indars** rum så finns resterna av giftet där.
+#. Plötsligt är det mycket oväsen ute på innergården. Visar sig att Baron **Indar** dragit fram galgen och håller på att marchera en sönderslagen Idun (gammal vän till en av rollpersonerna) för att hängas som skyldig för giftdådet. Inga bevis finns mot henne, utom **Indar** som hävdar att han sett henne göra det. Frågar rollpersonerna runt lite får de veta att personal från **Indars** sällskap har levererat dryck till **Rickard**, vilket de tyckt varit konstigt. Undersöks **Indars** rum så finns resterna av giftet där. Det visar sig också att det var Greve **Ali** från Sydland som skulle ha haft **Rickards** rum. En svårighet i sammanhanget är att det är endast kungen som kan döma en betitlad adelsman.
 
 #. Dag 6
    
@@ -93,9 +93,7 @@ Händelseförlopp
 
 #. Dag 7
 
-#. **Karl** kallar till sig spelkaraktärena till källaren.  **Tariq** håller på att frammana en demon, men det går fel. Om karaktärerna lyckas betvinga demon innan den har ihjäl Tariq, så berättar Tariq att han tänkte sig demonen som livvakt. Han är ledsen över det som hänt, och djupt tacksam för hjälpen, och lovar att ställa upp för rollpersonerna.
-
-   Efteråt berättar Karl att demonen är en demonfurste, och demonen var ganska försvagad när de kom. Det tyder på att Tariq har stor talang för magi.
+#. **Karl** rapporterar till **Vidar** att armén som invaderade Östland är på väg mot Högland, och Östlands soldater verkar ingå i den armén. Det börjar bli tämligen akut att hitta en kung, någon som kan samordna ett försvar.
 
 #. En stor bankett ska hållas till kvällen. Festen börjar storslaget med lättare förrätt, dans, gyckel och middag. Efter middag börjar det hejdlösa supandet och en del småbråk uppstår. Alla är misstänksamma mot alla, och alkoholen gör inte saken bättre. Framförallt **Gabriel** får rycka in när Greve **Jarund** Drakbane drar sitt svärd och hotar hugga ner alla som inte kommer från Nordland, uppenbart kraftigt berusad. Gabriel har dock en chans att tala honom tillrätta.
 
@@ -103,27 +101,37 @@ Händelseförlopp
 
 #. Det är uppenbart att alla haft lite för mycket att dricka dagen innan, och tillställningen blir osedvanligt tyst och lugn. Dock lyckas man inte få till något majoritetsval, alla verkar rösta på sin egen ätt. Inte helt oväntat resultat, och frustrationen börjar pyra.
 
-#. **Karl** rapporterar till **Vidar** att armén som invaderade Östland är på väg mot Högland, och Östlands soldater verkar ingå i den armén. Det börjar bli tämligen akut att hitta en kung, någon som kan samordna ett försvar.
-
 #. Dag 9 - Drakar -
 
-#. Dagen efter den misslyckade omröstningen anländer tre drakar på slätten utanför borgen. Det är Greve **Gottfried** von Mörkmården från Västland som rider på en av dem. När **Gabriel** anländer till scenen hör han en inre röst säga "Ska vi bränna dem nu?", en annan inre röst svarar "Vänta tills idioten hoppat av min rygg först". Gottfried deklarerar från ryggen av sin drake att om inte han väljs till kung, ska hans drakar bränna ner allt och alla i hela borgen.
+#. Dagen efter den misslyckade omröstningen anländer tre drakar på slätten utanför borgen. Det är Greve **Gottfried** von Mörkmården från Västland som rider på en av dem. När **Vidar** anländer till scenen hör han en inre röst säga "Ska vi bränna dem nu?", en annan inre röst svarar "Vänta tills idioten hoppat av min rygg först". Gottfried deklarerar från ryggen av sin drake att om inte han väljs till kung, ska hans drakar bränna ner allt och alla i hela borgen.
 
-   Gabriel är drakviskare, och kan ta upp kampen mot draken via sina tankar. Gör han det får de två andra drakarna panik, och Gabriel hör två inre röster som säger "Han är drakviskare, stick innan han förslavar oss alla!". Den han har kampen mot försöker stå emot ett tag, men ger till slut upp och sticker han också.
+   Vidar är drakviskare, och kan ta upp kampen mot draken via sina tankar. Gör han det får de två andra drakarna panik, och Vidar hör två inre röster som säger "Han är drakviskare, stick innan han förslavar oss alla!". Det var länge sedan draken hade med drakviskare att göra, så svårigheten mot vilja är bara 3.
 
-   Kvar står Gottfried och blir till allmänt åtlöje.
+   En drakviskare har till uppgift att utse en drakryttare. Draken och drakviskaren kan tala mentalt till varandra om de är nära varandra. När drakviskaren har utsett en drakryttare (draken vet hur det går till), så kan även drakryttaren tala mentalt med draken. Det går inte att avsätta en drakryttare, så om en drakviskare en gång låtit någon bli drakryttare, så är det tills drakryttaren dör.
 
-#. Dag 10 - Pergamentet läses upp -
+   Om en drakviskare rider på draken, så finns en risk att draken beslutar sig för att döda drakviskaren. Draken kan chansa på att drakviskaren har svårt att göra en mental attack när draken flyger upp och ner eller gör något annat som kan distrahera drakviskaren i luften.
 
-#. Det hålls ett möte bland alla som är aktuella som kungar, samt hertigarna, Gabriel och Vidar. **Karl** berättar då att kungen beodrat honom att läsa upp detta pergament i det fall omröstningen fallerade. Han vecklar ut det och börjar läsa:
-  "Härmed förkunnas att Vidar Horn af Björneborg, tidigare  Cronhielm af Ekborg, är son till kung Didrik och Ylva Horn af Björneborg. I egenskap av släktskap är han därför berättigad att få en röst av de som väljer det, och även att bli vald om ingen annan har blivit vald i egenskap av att vara förstfödde sonen i direkt nedstigande led till forne konungen."
-   Inte mycket sägs, alla verkar tämligen tagna. **Karl** avslutar med att imorgon blir en ny omröstning.
+#. Dag 10 - Ny omröstning -
 
-#. Dag 11 - Ny omröstning -
+   En ny omröstning görs. Eftersom **Vidar** visade sig vara drakviskare, blev han vald till kung, av samtliga.
 
-#. **Karl** börjar bli orolig över armén från öst. Inom en vecka kommer de att anlända, det är akut att bygga upp ett försvar. En ny kung måste väljas omgående. Ett nytt val hålls till kvällen. Vidar väljs som kung, ingen röstade emot det.
+#. Kriget
 
-Här blir det upp till spelarna att anordna ett försvar. Nordland har redan sin armé på plats, Västland har en del soldater som kan komma men det är endast en del av soldaterna som kan komma i tid, huvuddelen av truppen kommer att komma några dagar försent. Sydland har inte så mycket trupper, men kan bidra med spioner och folk som kan syssla med sabotage.
+   **Gabriel** hjälper till som drakryttare, men gör moraliskt tveksamma beslut (attackerar oprovocerat) och känner dessutom att detta inte är tempelorderns krig. Det slutar med att **Vidar** väljer ut nya drakryttare, och försöker utbilda dem på kort tid. Tyvärr dör många av dem.
 
-Om spelarna förhandlar med Gottfried, kan han berätta var drakarna håller till. Han har en magisk kula som pekar ut i vilken riktning de är och hur långt det är dit. Visar sig att de är bara några dagars ritt bort. Det krävs dock att både Gabriel och Vidar samarbetar för att betvinga drakarna, eftersom Gabriel inte är tränad som drakviskare.
+   **Gabriel** beger sig till kapellet i Högland och träffar Ordenmästaren. Ordenmästaren förklarar att detta krig faktiskt angår även tempelorden, eftersom Utland knappast lär skona bönder och andra civila. Han förklarar också att felaktiga beslut inte behöver betyda att man är ovärdig, utan i **Gabriels** fall snarare är ett tecken på att **Gabriel** inte är färdigutbildad än. **Lucas** hann ju aldrig utbilda honom klart, trotsallt.
+
+   **Gabriel** beslutar sig för att gå tillbaka till slottet, och där anta uppdraget att förstöra försörjningslinjen för fienden. Gabriel attackerar en karavan, där Östlands soldater beslutar sig för att gå med i **Gabriels** lilla armé, medan Utlands soldater blir dödade.
+
+   Draken kommer till **Gabriel** utan ryttare (dog han också i strid mot Utlands soldater), och berättar att ryttaren hade varit orolig för något. **Gabriel** "lånar" draken och får då se att en del av armén är på väg till en tunnel som leder in till Högland som ingen visste om fanns. **Gabriel** använder draken för att varna kung **Vidar**.
+
+   Andra delen av armén, som hade slagit läger en bit utanför norra ingången till Högland, drabbades av uppror. Det är Östlands armé som dödar sin greve och sedan krigar mot Utland. Av Östlands armé på ungefär 1500 man överlevde cirka 300 man, som beger sig till Högland och kapitulerar. De har sin greves huvud med sig.
+
+   Eftersom Högland känner till tunneln kunde de stänga in Utlands armé i den och använda draken för lite grillfest.
+
+#. Efter kriget
+
+   **Idun** tänkte bege sig till nunnekloster i Sydland eftersom hon blivit kär i någon som hon är övertygad om att hon aldrig kan få, nämligen **Vidar**, nu när han blivit kung. **Vidar** övertalar istället henne till att bli drottning.
+
+   **Karl** beslutar sig för att läsa upp pergamentet. Kungen hade inte gett några direktiv om vad som skulle göras med pergamentet om en ny kung faktiskt hade valts, så han bestämmer sig för att det är upp till honom att bestämma. Visar sig att **Vidar** är kungens son, som har hållts hemlig eftersom den forna drottningen hade blivit förgiftad, och inte dött i sviten av barnfödseln. Verkade ju lite konstigt att dö ett par år efter att barnet dött...
 

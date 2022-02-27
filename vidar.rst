@@ -105,49 +105,97 @@ otroligt förbannade Edvin!
 Aspekt
   Vill hjälpa de svaga
 
-Vidars bidrag till Gabriels berättelse
---------------------------------------
+Gabriels modifierade berättelse
+--------------------------
+Vidar rider in i Kullbyn med sin rekvisition. Han har inget följe med 
+sig. Det behövs inte för det här ärendet. Han la fram sin idé redan 
+under sommaren. Han ville ha ett vindskydd att kunna använda vid sina 
+jaktturer. Timmrat och han ville bygga det själv. "Jo, det går bra." 
+hade han fått som svar. "Men tala först med byäldsten i Kullbyn. Be 
+honom välja ut någon som kan lära dig att fälla träd och timmra. Ta med 
+den här rekvisitionen som dom kan använda för att erhålla lön för din 
+utbildning."
 
-Sleipner rusar fram i galopp. Vidar styr varsamt Sleipner förbi stockar
-och över en häck, sedan låter han Sleipner falla in i en lugn trav. "Du
-behöver nog vatten, tror jag" säger Vidar. "Kullbyn ligger nära, vi tar
-vägen förbi." När Vidar rider in i Kullbyn märker han att det är en hel
-del av männen som samlats på torget. Han vattnar Sleipner och går fram
-till en av männen som Vidar vet är med i bystämman. Männen runt omkring
-verkar upprörda och många av dom är beväpnade med enklare vapen. "Vad är
-det frågan om?" undrar Vidar. Mannen vänder sig om och ser lite besvärad
-ut när han ser vem det är. Han ser ut att fundera på om han ska svara
-eller inte, men säger sedan: "Nu ska vi en gång för alla visa vem som
-rättmätigt äger Dalsåkrarna!"
+Den första snön har fallit. Vidars plan är att kunna bygga färdigt 
+vindskyddet under vintern så att han kan använda det under sommaren. Ett 
+rejält vindskydd med eldstad framför för att hålla myggen på avstånd. 
+Byäldsten läser pappret som Vidar lämnar över. Nickar och säger: "Jag 
+vet precis vem som kan hjälpa dig. Han är ingen ungdom längre så han kan 
+inte rida så fort, men vi har ingen med mer erfarenhet än Brynolf. Det 
+han inte kan om yxor eller träd är inte värt att veta."
 
-Trätan om Dalsåker gick långt tillbaka i tiden. Ingen minns riktigt hur
-den började. Kanske som ett missförstånd att grannbyn Slättby hade fått
-lov att bruka Dalsåkrarna. Hur som helst, Kullbyn och Slättby hade under
-lång tid bråkat om om dom här åkrarna. Vidar insåg att han måste försöka
+Mycket riktigt. Brynolf visste hur man gjorde. Med oändligt lugn 
+förklarade och visade han. Han hade från början sagt att det kommer att 
+ta tid att timmra ett vindskydd. Åtminstone om man gör det själv. Vidar 
+nickade. "Jag vill bara att du visar hur man gör. Sedan bygger jag 
+själv." Brynolf hade betraktat honom med tvivel i blicken. Vidar förstod 
+att han inte trodde att den här rikemansslyngeln skulle ha tålamod nog 
+att göra klart vindskyddet.
+
+Det tog hela vintern, men till slut så var det färdigt. Vidar betraktade 
+stolt sitt verk. Nu var det bara att vänta till sommarens jaktturer. Men 
+när Vidar sen återvände så fick han en chock. Vindskyddet hade sjunkit 
+ner i marken. Bara hälften stack upp. Han hade byggt vindskyddet rakt på 
+ett kärr!. Vidar sjönk ihop. Förtvivlad. Men efter ett tag så reste han 
+sig. Med beslutsamma steg gick han iväg och letade upp en ny plats på 
+torr mark. Sen satte han igång. Dom stockar som var ovanför marknivå tog 
+han loss och flyttade, övriga fick han hugga nya. Vidar jobbade på några 
+dagar, men bestämde sig sen för att bege sig tillbaka till slottet några 
+dagar för att förtsätta senare.
+
+Vidar tar vägen förbi Kullbyn för att vattna sin häst där. När han rider 
+in i Kullbyn märker han att det är en hel del av männen som samlats på 
+torget. Han vattnar Sleipner och går fram till en av männen som Vidar 
+vet är med i bystämman. Männen runt omkring verkar upprörda och många av 
+dom är beväpnade med enklare vapen. "Vad är det frågan om?" undrar 
+Vidar. Mannen vänder sig om och ser lite besvärad ut när han ser vem det 
+är. Han ser ut att fundera på om han ska svara eller inte, men säger 
+sedan: "Nu ska vi en gång för alla visa vem som rättmätigt äger 
+Dalsåkrarna!"
+
+Trätan om Dalsåker gick långt tillbaka i tiden. Ingen minns riktigt hur 
+den började. Kanske som ett missförstånd att grannbyn Slättby hade fått 
+lov att bruka Dalsåkrarna. Hur som helst, Kullbyn och Slättby hade under 
+lång tid bråkat om om dom här åkrarna. Vidar insåg att han måste försöka 
 göra något om inte situationen skulle spåra ur helt.
 
-Vidar sätter sig på sin häst för att komma upp en bit. Han önskar
-verkligen att han haft Gabriel här nu. Gabriel har en helt annan pondus
-än Vidar. Visst, Gabriel kan ibland brusa upp lite väl mycket, men i det
+Vidar sätter sig på sin häst för att komma upp en bit. Han önskar 
+verkligen att han haft Gabriel här nu. Gabriel har en helt annan pondus 
+än Vidar. Visst, Gabriel kan ibland brusa upp lite väl mycket, men i det 
 här läget skulle egentligen inte det vara någon nackdel.
 
-Vidar säger med så myndig röst som möjligt: "Lyssna! Ni kan inte gå till
-Slättbyn med era påkar och försöka skipa er egen rättvisa. Kullbyn måste
-också få sin röst hörd. Den här dispyten måste ni ta upp i tinget och
-låta lagmännen avgöra!" Männen på torget stannar upp och ser lite osäkra
-ut, men så svarar en av männen: "Vi gjorde ju det för två år sen och
-inget har hänt! Vi kan inte vänta längre! Vår by har växt och vi har
-fler munnar att mätta!". Dom övriga männen nickar instämmande. "Mot
-Slättby och låt dom få veta vem som äger Dalsåkrarna!". Männen börjar
-samla ihop sig och ser ut att förbereda sig för avmarsh. Vidar inser att
-han måste kalla på hjälp och sätter av i sporrsträck mot Björneslott.
+Vidar säger med så myndig röst som möjligt: "Lyssna! Ni kan inte gå till 
+Slättby med era påkar och försöka skipa er egen rättvisa. Kullbyn måste 
+också få sin röst hörd. Den här dispyten måste ni ta upp i tinget och 
+låta lagmännen avgöra!" Männen på torget stannar upp och ser lite osäkra 
+ut, men så svarar en av männen: "Vi gjorde ju det för två år sen och 
+inget har hänt! Vi kan inte vänta längre! Vår by har växt och vi har 
+fler munnar att mätta!". När han hör detta så drar sig Vidar till minnes 
+en middag han var på hos en av lagmännen. Framåt småtimmarna hade dom 
+börjat raljera lite över rättsfall som var besvärliga. "Att det ska vara 
+så jävla omöjligt för dom där idioterna i Slättby och Kullbyn att komma 
+överens!" utbrast lagmannen. "Vi har försökt medla och sagt att dom blir 
+tvungna att dela på marken i Dalsåker, men icke. Dom beter sig fanimej 
+som barnungar!"
 
-Halvvägs mot Björneslott möter Vidar Gabriel och tempelmästaren Lucas.
-Snabbt förklarar han läget och tempelmästaren säger med barsk röst att
+Sen var det liksom som att munnen på Vidar hade en egen vilja. Vidar hör 
+plötsligt sig själv säga: "Jamen ni klarar ju inte av att komma överens, 
+ni är ju som förvuxna barn!" Det här var tydligen inte rätt sak att 
+säga. Männen på torget blir först dödstysta och alla vänder sig mot 
+Vidar. "Vad i helvete säger du!" utbrister någon. "Rid tillbaka till 
+ditt slott och låt oss lösa det här nu en gång för alla!" Dom övriga 
+männen nickar instämmande. "Mot Slättby och låt dom få veta vem som äger 
+Dalsåkrarna!". Männen börjar samla ihop sig och ser ut att förbereda sig 
+för avmarsh. Vidar inser att han måste kalla på hjälp och sätter av i 
+sporrsträck mot Björneslott.
+
+Halvvägs mot Björneslott möter Vidar Gabriel och tempelmästaren Lucas. 
+Snabbt förklarar han läget och tempelmästaren säger med barsk röst att 
 dom genast ska bege sig till Slättby.
 
-Gabriel, Vidar och Lucas rider in till Slättby, och på torget möts de av en...
+Gabriel, Vidar och Lucas rider in till Slättby, och på torget möts de av en
+obehaglig syn.
 
 Aspekt
-  ??
+  Envis
 
